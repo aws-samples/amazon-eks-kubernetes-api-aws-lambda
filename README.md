@@ -1,11 +1,6 @@
-## My Project
+## Amazon EKS Kubernetes API from AWS Lambda
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+Access the Kubernetes API from a Lambda function entirely in code.
 
 ## Security
 
