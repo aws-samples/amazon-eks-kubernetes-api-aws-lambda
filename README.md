@@ -1,6 +1,6 @@
 ## Amazon EKS Kubernetes API from AWS Lambda
 
-Access the Kubernetes API from a Lambda function entirely in code.
+Access the Kubernetes API from a Lambda function entirely in code.  This is the Source code for the blog article [A Container-Free Way to Configure Kubernetes Using AWS Lambda]( https://aws.amazon.com/blogs/opensource/a-container-free-way-to-configure-kubernetes-using-aws-lambda/).
 
 ## Security
 
